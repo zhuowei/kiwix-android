@@ -4,6 +4,7 @@
 * Fitoschido
 * MSClaudiu
 * Minisarm
+* Turbojet
 -->
 <resources>
   <string name="menu_help">Ajutor</string>
@@ -23,6 +24,7 @@
   <string name="search_label">Caută</string>
   <string name="choose_file">Alegeți un fișier cu conținut ZIM (*.zim)</string>
   <string name="open_in_new_tab">Deschideți legătura într-o filă nouă?</string>
+  <string name="server_stopped_successfully_toast_message">Oprire reușită a serverului.</string>
   <string name="error_file_not_found">Eroare: Fișierul ZIM selectat nu poate fi găsit.</string>
   <string name="error_file_invalid">Eroare: Fișierul selectat nu este un fișier ZIM valid.</string>
   <string name="error_article_url_not_found">Eroare: Încărcarea articolului (Url: %1$s) nu a reușit.</string>
@@ -128,4 +130,5 @@
   <string name="your_languages">Limbi selectate:</string>
   <string name="other_languages">Alte limbi:</string>
   <string name="no_bookmarks">Nici un semn de carte</string>
+  <string name="delete_history">Șterge istoricul?</string>
 </resources>

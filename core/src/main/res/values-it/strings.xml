@@ -99,4 +99,6 @@
   <string name="go_to_settings">Vai alle impostazioni</string>
   <string name="no_results">Nessun risultato</string>
   <string name="no_bookmarks">Nessun segnalibro</string>
+  <string name="delete_history">Cancellare la cronologia?</string>
+  <string name="delete_bookmarks">Cancellare i segnalibri?</string>
 </resources>

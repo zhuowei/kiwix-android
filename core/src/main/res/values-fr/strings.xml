@@ -2,6 +2,7 @@
 <!-- Authors:
 * Derugon
 * Djiboun
+* Eneelk
 * Fitoschido
 * Gomoko
 * Kelson
@@ -42,6 +43,7 @@
   <string name="server_failed_message">Impossible de démarrer le serveur. Veuillez activer votre point d’accès WiFi</string>
   <string name="server_failed_toast_message">Impossible de démarrer le serveur.</string>
   <string name="server_started_successfully_toast_message">Serveur démarré avec succès.</string>
+  <string name="server_stopped_successfully_toast_message">Le serveur a été arrêté avec succès.</string>
   <string name="hotspot_turned_on">Point d’accès activé</string>
   <string name="hotspot_details_message">Voici les détails de votre point d’accès local.\nSSID : %1$s\nPasse : %2$s</string>
   <string name="server_textview_default_message">Sélectionnez les fichiers que vous voulez héberger sur le serveur</string>
@@ -260,4 +262,6 @@
   <string name="no_bookmarks">Aucun marque-page</string>
   <string name="no_history">Aucun historique</string>
   <string name="device_default">Appareil par défaut</string>
+  <string name="delete_history">Supprimer l’historique ?</string>
+  <string name="delete_bookmarks">Supprimer les marque-pages ?</string>
 </resources>
